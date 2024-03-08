@@ -21,7 +21,7 @@ jobs:
 
       - run: npm ci
         env:
-          TURBO_TOKEN: J21WLbDlu08nxFL4OGbFsI7W
+          TURBO_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           TURBO_TEAM: gabriel-antunes
 
       - run: npm run build
