@@ -27,7 +27,7 @@ const config: StorybookConfig = {
   },
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/coderise-ui-react/'
+      config.base = './'
     }
 
     return config
