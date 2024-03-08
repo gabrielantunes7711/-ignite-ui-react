@@ -7,7 +7,7 @@ import {
   radii,
   space,
   transitions,
-} from '@ignite-ui/tokens'
+} from '@coderise-ui/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const { styled, css, globalCss, keyframes, getCssText, theme, createTheme, config } =

@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@coderise-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@coderise-ui/eslint-config": "*",
+    "@coderise-ui/tokens": "*",
+    "@coderise-ui/ts-config": "*",
     "@radix-ui/react-avatar": "^1.0.4",
     "@radix-ui/react-checkbox": "^1.0.4",
     "@stitches/react": "^1.2.8",

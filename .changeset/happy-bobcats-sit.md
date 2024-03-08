@@ -1,5 +1,5 @@
 ---
-"@ignite-ui/eslint-config": major
+'@coderise-ui/eslint-config': major
 ---
 
 Set eslint version
