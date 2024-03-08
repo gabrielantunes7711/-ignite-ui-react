@@ -1,5 +1,11 @@
 # @coderise-ui/react
 
+## 2.0.2
+
+### Patch Changes
+
+- feat: Add TextInput size options
+
 ## 2.0.1
 
 ### Patch Changes

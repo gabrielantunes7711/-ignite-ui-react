@@ -6,6 +6,15 @@ export default {
   component: TextInput,
   args: {
     prefix: '',
+    size: 'md',
+  },
+  argTypes: {
+    size: {
+      options: ['sm', 'md'],
+      control: {
+        type: 'select',
+      },
+    },
   },
   decorators: [
     (Story) => (
